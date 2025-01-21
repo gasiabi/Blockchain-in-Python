@@ -1,0 +1,56 @@
+[
+    {
+        "index": 0,
+        "timestamp": "01/20/2025",
+        "data": "Genesis Block",
+        "prior_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": 4972,
+        "hash": "555d78d52fd96c6359fec1906ca809eac09442fc788143989c16ed0607f8e0f6",
+        "mining_time": 0.015565872192382812
+    },
+    {
+        "index": 1,
+        "timestamp": "01/20/2025",
+        "data": "Dane: 100",
+        "prior_hash": "555d78d52fd96c6359fec1906ca809eac09442fc788143989c16ed0607f8e0f6",
+        "nonce": 11990,
+        "hash": "55567cec34c2e4dfe00e2e9901a9b973cd6c0778ae4321da338bea47b2e47851",
+        "mining_time": 0.046540021896362305
+    },
+    {
+        "index": 2,
+        "timestamp": "01/21/2025",
+        "data": "Dane: 200",
+        "prior_hash": "55567cec34c2e4dfe00e2e9901a9b973cd6c0778ae4321da338bea47b2e47851",
+        "nonce": 5010,
+        "hash": "55563d4451efd4e5b935eb17bb919f4907df0c57030a0a418f81dd0951116e41",
+        "mining_time": 0.02018880844116211
+    },
+    {
+        "index": 3,
+        "timestamp": "01/22/2025",
+        "data": "Dane: 300",
+        "prior_hash": "55563d4451efd4e5b935eb17bb919f4907df0c57030a0a418f81dd0951116e41",
+        "nonce": 4462,
+        "hash": "55565df523bef7e8becabbdc59e19983fff09631533f56de4ec1a9175c413cc3",
+        "mining_time": 0.01097726821899414
+    },
+    {
+        "index": 4,
+        "timestamp": "01/23/2025",
+        "data": "Dane: 400",
+        "prior_hash": "55565df523bef7e8becabbdc59e19983fff09631533f56de4ec1a9175c413cc3",
+        "nonce": 1567,
+        "hash": "555607046429a80af5eb8db76a3df32a24c3f9992d8d407242e3fc809d515f0d",
+        "mining_time": 0.003999948501586914
+    },
+    {
+        "index": 5,
+        "timestamp": "01/24/2025",
+        "data": "Dane: 500",
+        "prior_hash": "555607046429a80af5eb8db76a3df32a24c3f9992d8d407242e3fc809d515f0d",
+        "nonce": 786,
+        "hash": "555cf61982d85286dc7029679dad2e72919dc18172e638887d36eb5096a70958",
+        "mining_time": 0.002002716064453125
+    }
+]
